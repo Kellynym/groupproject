@@ -35,26 +35,6 @@ html {
 
 .letters {font-family: cursive; color: white;}
 
-.ml9 {
-  position: relative;
-  font-weight: 200;
-  font-size: 4em;
-}
-
-.ml9 .text-wrapper {
-  position: relative;
-  display: inline-block;
-  padding-top: 0.2em;
-  padding-right: 0.05em;
-  padding-bottom: 0.1em;
-  overflow: hidden;
-}
-
-.ml9 .letter {
-  transform-origin: 50% 100%;
-  display: inline-block;
-  line-height: 1em;
-}
 
 
 
@@ -108,6 +88,32 @@ text-align: center;}
 
   color:#fff;
   
-  border-color: #db115c; align-self: center;
+  border-color: #db115c; align-self: center; 
   
 }
+
+.btn-secondary:hover{background-color: #db115c; border-color: #558ed2 ;}
+
+.h1 {font-family: cursive; font-size: 60px; text-align: center; color: white
+
+}
+
+
+
+.btn-primary {background-color: #558ed2;
+
+  color:#fff;
+  
+  border-color: #db115c; align-self: center; 
+  
+}
+
+.btn-primary:hover{ background-color: #db115c; border-color: #558ed2 ;}
+
+
+H2 {font-family: cursive; font-size: 40px; text-align: center; color: white
+
+}
+
+
+
