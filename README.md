@@ -10,7 +10,6 @@ Bootstrap
 
 Project Scope
 
-
 Purpose:
 
 The purpose of our website is to build a responsive website for a local Italian ice store to inform prospect and current customers, market the business, drive traffic to the store, and increase revenue.
